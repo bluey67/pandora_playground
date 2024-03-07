@@ -1,0 +1,3 @@
+# ignore PyCharm folders TODO double-check they're indeed Pycharm things
+.idea
+__pycache__

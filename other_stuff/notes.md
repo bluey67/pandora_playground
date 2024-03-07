@@ -1,0 +1,1 @@
+minimal requirements.txt for the app: is pandas even required?
